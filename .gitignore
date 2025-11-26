@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.tmp
+
+# build artifacts
+dist/
+build/
+
+# system files
+desktop.ini
+npm-debug.log*
